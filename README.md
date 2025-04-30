@@ -1,9 +1,9 @@
 # Pro Player LoLdle
-~ Made in Collaboration with https://github.com/github.com/AllyValera ~
-
-## Webhosted the application on a Raspberry Pi. Utilizing ApacheServer and Port forwarding under a static IP and DNS mask to allow for some external user play.
-
 Welcome to the Pro Player LoLdle Game! This project involves building a simplified guessing game related to professional League of Legends players. Players can interact with the game, and the server handles the game's logic, such as fetching random player data and fetching data for the players from user input.
+
+# ~ Made in Collaboration with https://github.com/github.com/AllyValera ~
+
+Webhosted the application on a Raspberry Pi. Utilizing ApacheServer and Port forwarding under a static IP and DNS mask to allow for some external user play.
 
 ## Features
 - **Beautiful Soup**: Utilizes the Beautiful Soup Python package to web scrape information about League of Legends professional players.
